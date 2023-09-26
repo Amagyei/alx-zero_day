@@ -1,1 +1,1 @@
-git fetch\n git merge master\n git merge --ff-only-main
+git pull
